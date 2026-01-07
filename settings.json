@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "Craft_DZ.aternos.me", 
+    "ip": " Craft_DZ.aternos.me", 
     "port": 30352,   
     "version": "1.12.1"   
   },
@@ -35,9 +35,9 @@
       "repeat-delay": 60,
 
       "messages": [
-        "you boy",
-        "ا!",
-        "hi"
+        "you like the server \;",
+        "woooo",
+        "Dz is the best"
       ]
     },
 
@@ -46,3 +46,4 @@
     "auto-recconect-delay": 5000
   }
 }
+
