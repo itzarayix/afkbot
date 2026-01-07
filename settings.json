@@ -6,8 +6,9 @@
   },
 
   "server": {
-    "ip": "Tyrox_x.aternos.me", 
-    "port": 48211,   
+    "ip": "Craft_DZ.aternos.me
+", 
+    "port": 30352,   
     "version": "1.12.1"   
   },
 
@@ -35,9 +36,9 @@
       "repeat-delay": 60,
 
       "messages": [
-        "I'm a regular player",
-        "Subscibe To Tyrox!",
-        "I Like to Play Minecraft!"
+        "you boy",
+        "ا!",
+        "hi"
       ]
     },
 
