@@ -6,8 +6,7 @@
   },
 
   "server": {
-    "ip": "Craft_DZ.aternos.me
-", 
+    "ip": "Craft_DZ.aternos.me", 
     "port": 30352,   
     "version": "1.12.1"   
   },
